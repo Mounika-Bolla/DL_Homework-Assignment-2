@@ -1,5 +1,10 @@
 # README - Homework Assignment 2
 
+## Student Information
+- **Name:** [Mounika Bolla]  
+- **Student ID:** 700757766  
+- **Course:** [CS 5720 Neural Networks and Deep Learning]  
+
 ## Overview
 This Jupyter Notebook contains solutions to Homework Assignment 2, covering topics related to cloud computing for deep learning, convolution operations, and feature extraction using CNNs. The notebook includes both theoretical explanations and Python implementations using libraries such as NumPy, TensorFlow, and OpenCV.
 
