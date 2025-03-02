@@ -56,9 +56,12 @@ The notebook is structured into multiple questions:
   pip install opencv-python-headless
   ```
 
-## Author
-Mounika Bolla
 
 ## Acknowledgments
 This assignment is part of an academic course on deep learning and cloud computing. If referencing, please cite appropriately.
 
+## Video Demonstration
+[https://drive.google.com/file/d/1lhx6OZ6z2vO4iQdZEmv9N75OaUZfLbwa/view?usp=drive_link]
+
+## Repository Link
+[https://github.com/Mounika-Bolla/Deep-Learning]
