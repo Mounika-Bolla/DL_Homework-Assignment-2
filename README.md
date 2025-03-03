@@ -61,7 +61,7 @@ The notebook is structured into multiple questions:
 This assignment is part of an academic course on deep learning and cloud computing. If referencing, please cite appropriately.
 
 ## Video Demonstration
-[https://drive.google.com/file/d/1lhx6OZ6z2vO4iQdZEmv9N75OaUZfLbwa/view?usp=drive_link]
+[https://drive.google.com/file/d/1HkYQFL_w1ifNjNwMWHux6Izfjl12ECpq/view?usp=sharing]
 
 ## Repository Link
-[https://github.com/Mounika-Bolla/Deep-Learning]
+https://github.com/Mounika-Bolla/DL_Homework-Assignment-2]
